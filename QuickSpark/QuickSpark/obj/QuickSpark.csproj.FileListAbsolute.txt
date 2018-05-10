@@ -1,0 +1,51 @@
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\bin\Debug\QuickSpark.exe
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\bin\Debug\QuickSpark.pdb
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Form1.resources
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Properties.Resources.resources
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\obj\Debug\QuickSpark.exe
+D:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\QuickSpark\QuickSpark\obj\Debug\QuickSpark.pdb
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.exe
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.pdb
+N:\Proyecto\QuickSpark\QuickSpark\bin\Debug\QuickSpark.exe
+N:\Proyecto\QuickSpark\QuickSpark\bin\Debug\QuickSpark.pdb
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\ResolveAssemblyReference.cache
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Form1.resources
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Properties.Resources.resources
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.GenerateResource.Cache
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.exe
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.pdb
+E:\Proyecto\QuickSpark\QuickSpark\bin\Debug\QuickSpark.exe
+E:\Proyecto\QuickSpark\QuickSpark\bin\Debug\QuickSpark.pdb
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Form1.resources
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Properties.Resources.resources
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.GenerateResource.Cache
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\Interop.WMPLib.dll
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.ResolveComReference.cache
+E:\Proyecto\QuickSpark\QuickSpark\bin\Debug\Interop.WMPLib.dll
+E:\Proyecto\QuickSpark\QuickSpark\bin\Debug\AxInterop.WMPLib.dll
+F:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.exe
+F:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.pdb
+N:\Proyecto\QuickSpark\QuickSpark\bin\Debug\Interop.WMPLib.dll
+N:\Proyecto\QuickSpark\QuickSpark\bin\Debug\AxInterop.WMPLib.dll
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\Interop.WMPLib.dll
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\AxInterop.WMPLib.dll
+N:\Proyecto\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.ResolveComReference.cache
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\QuickSpark.exe
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\QuickSpark.pdb
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\bin\Debug\QuickSpark.exe
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\bin\Debug\QuickSpark.pdb
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.ResolveComReference.cache
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Form1.resources
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\QuickSpark.Properties.Resources.resources
+C:\Documents and Settings\1000079\Desktop\QuickSpark\QuickSpark\obj\Debug\QuickSpark.csproj.GenerateResource.Cache
+C:\Documents and Settings\1000079\Desktop\QuickSpark3\QuickSpark\obj\Debug\QuickSpark.exe
+C:\Documents and Settings\1000079\Desktop\QuickSpark3\QuickSpark\obj\Debug\QuickSpark.pdb
